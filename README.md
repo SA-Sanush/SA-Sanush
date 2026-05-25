@@ -288,7 +288,8 @@ SASanush().greet()
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ══════════════════════ SNAKE ══════════════════════════════════════════ -->
+<!-- ════════════════════════ SNAKE ════════════════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" alt="Snake"/>  Contribution Snake
 ![Snake animation](https://github.com/SA-Sanush/SA-Sanush/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ══════════════════════ QUOTE + JOKE ══════════════════════════════════ -->
