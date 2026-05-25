@@ -210,9 +210,9 @@ SASanush().greet()
 <!-- Pure markdown table — ALWAYS renders, zero external deps -->
 
 ```
-  2023 ──────────────────────────────────────────────────────── 2026
+  2025 ──────────────────────────────────────────────────────── 2026
    │                                                               │
-   ├─ 🎓 Joined MCA at ICT Academy of Kerala                      │
+   ├─ 🎓 Joined MCA and Intern at ICT Academy of Kerala            │
    │                                                               │
    ├─ 🐍 Mastered Python · Flask · REST APIs                      │
    │                                                               │
