@@ -192,18 +192,6 @@ SASanush().greet()
 
 <br/>
 
-<!-- Pin cards — bonus: show if repos are public & API is not rate-limited -->
-<div align="center">
-  <a href="https://github.com/SA-Sanush/Talent-Acquisition-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SA-Sanush&repo=Talent-Acquisition-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&cache_seconds=86400"/>
-  </a>&nbsp;
-  <a href="https://github.com/SA-Sanush/My-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SA-Sanush&repo=My-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&cache_seconds=86400"/>
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live_Now-FF5722?style=for-the-badge&labelColor=000000)](https://sa-sanush.github.io/My-portfolio/)&nbsp;
