@@ -289,57 +289,7 @@ SASanush().greet()
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ══════════════════════ SNAKE ══════════════════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" alt="Snake"/> &nbsp;Contribution Snake
-
-> **Note:** Snake appears after the GitHub Action runs once. See setup below.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SA-Sanush/SA-Sanush/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SA-Sanush/SA-Sanush/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SA-Sanush/SA-Sanush/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ One-time setup — click to expand</summary>
-<br/>
-
-Create **`.github/workflows/snake.yml`** in your `SA-Sanush` profile repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake Animation → Run workflow**. Done!
-
-</details>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+![Snake animation](https://github.com/SA-Sanush/SA-Sanush/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ══════════════════════ QUOTE + JOKE ══════════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35" alt="Star"/> &nbsp;Daily Inspiration
