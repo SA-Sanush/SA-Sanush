@@ -236,11 +236,6 @@ SASanush().greet()
 
 <!--  FIX: cache_seconds=86400 prevents rate-limit broken images.         -->
 <!--  These cards load on first render and cache for 24h on the CDN.      -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SA-Sanush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF6B6B&text_color=ffffff&ring_color=00F7FF&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SA-Sanush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&cache_seconds=86400"/>
-</div>
-
 <!-- ✅ Streak — demolab is most stable streak provider -->
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=SA-Sanush&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa"/>
