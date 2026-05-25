@@ -214,17 +214,17 @@ SASanush().greet()
    │                                                               │
    ├─ 🎓 Joined MCA and Intern at ICT Academy of Kerala            │
    │                                                               │
-   ├─ 🐍 Mastered Python · Flask · REST APIs                      │
+   ├─ 🐍 Mastered Python · Flask · REST APIs                       │
    │                                                               │
    ├─ ⚛️  Built React + Three.js projects                          │
    │                                                               │
-   ├─ 🧠 Deep dived into NLP · spaCy · OCR pipelines              │
+   ├─ 🧠 Deep dived into NLP · spaCy · OCR pipelines               │
    │                                                               │
-   ├─ 🏆 Led Team of 4 → Talent Acquisition System                │
+   ├─ 🏆 Led Team of 4 → Talent Acquisition System                 │
    │                                                               │
-   ├─ 🌐 Launched 3D Portfolio + built-in AI Chatbot              │
+   ├─ 🌐 Launched 3D Portfolio + built-in AI Chatbot               │
    │                                                               │
-   └─ 🔭 NOW: Seeking Entry-Level / Internship Roles ─────────────┤
+   └─ 🔭 NOW: Seeking Entry-Level / Internship Roles ───────────── ┤
 ```
 
 <br/>
