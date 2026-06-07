@@ -262,13 +262,6 @@ SASanush().greet()
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SA-Sanush&theme=tokyonight" width="100%"/>
-</div>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ════════════════════════ SNAKE ════════════════════════════════════════ -->
