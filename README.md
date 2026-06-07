@@ -243,6 +243,18 @@ SASanush().greet()
 
 <br/>
 
+<!-- Profile summary cards — 5 analytics panels -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SA-Sanush&theme=tokyonight" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SA-Sanush&theme=tokyonight" width="32%"/>&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SA-Sanush&theme=tokyonight" width="32%"/>&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SA-Sanush&theme=tokyonight" width="32%"/>
+</div>
+
+<br/>
+
 <!-- Trophies — full 7-column row -->
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SA-Sanush&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
@@ -252,7 +264,7 @@ SASanush().greet()
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SA-Sanush&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SA-Sanush&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FF6B6B&area=true&hide_border=true&area_color=00F7FF"/>
 </div>
 
 <br/>
