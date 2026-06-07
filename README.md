@@ -264,7 +264,7 @@ SASanush().greet()
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SA-Sanush&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FF6B6B&area=true&hide_border=true&area_color=00F7FF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SA-Sanush&theme=tokyonight" width="100%"/>
 </div>
 
 <br/>
