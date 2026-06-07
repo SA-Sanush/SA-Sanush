@@ -257,7 +257,9 @@ SASanush().greet()
 
 <!-- Trophies — full 7-column row -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SA-Sanush&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=4"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SA-Sanush&theme=tokyonight&utcOffset=+5.5)
+
 </div>
 
 <br/>
