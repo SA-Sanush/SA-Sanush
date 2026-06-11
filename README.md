@@ -234,37 +234,29 @@ SASanush().greet()
 <!-- ══════════════════════ GITHUB ANALYTICS ══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" alt="Chart"/> &nbsp;GitHub Analytics
 
-<!--  FIX: cache_seconds=86400 prevents rate-limit broken images.         -->
-<!--  These cards load on first render and cache for 24h on the CDN.      -->
-<!-- ✅ Streak — demolab is most stable streak provider -->
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=SA-Sanush&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa"/>
 </div>
 
 <br/>
 
-<!-- Profile summary cards — 5 analytics panels -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SA-Sanush&theme=tokyonight" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SA-Sanush&theme=tokyonight" width="32%"/>&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SA-Sanush&theme=tokyonight" width="32%"/>&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SA-Sanush&theme=tokyonight" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SA-Sanush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&cache_seconds=86400" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SA-Sanush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&cache_seconds=86400" width="48%"/>
 </div>
 
 <br/>
 
-<!-- Trophies — full 7-column row -->
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SA-Sanush&theme=tokyonight&utcOffset=+5.5)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SA-Sanush&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FF6B6B" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SA-Sanush&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+</div>
 
 <!-- ════════════════════════ SNAKE ════════════════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" alt="Snake"/>  Contribution Snake
