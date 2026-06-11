@@ -70,7 +70,7 @@
 ║                                          ║
 ║  > cat identity.json                     ║
 ║  {                                       ║
-║    "location"  : "Trivandrum, Kerala 🇮🇳", ║
+║    "location"  : "Trivandrum, Kerala 🇮🇳",║
 ║    "edu"       : "MCA @ ICT Academy",    ║
 ║    "mode"      : "BUILDER",              ║
 ║    "status"    : "HIRING_OPEN ✅",       ║
@@ -80,9 +80,9 @@
 ║  }                                       ║
 ║                                          ║
 ║  > ls ./superpowers                      ║
-║  🤖 AI_Engineering  🐍 Python           ║
-║  ⚛️  React_TS        🧠 NLP             ║
-║  🎮 Three.js         📊 Data_Analysis   ║
+║  🤖 AI_Engineering  🐍 Python            ║
+║  ⚛️  React_TS        🧠 NLP              ║
+║  🎮 Three.js         📊 Data_Analysis    ║
 ║                                          ║
 ║  > echo "Let's build something LEGENDARY"║
 ║  Let's build something LEGENDARY 🚀      ║
@@ -133,16 +133,16 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  🦾  JARVIS — MULTI-LLM AI ASSISTANT                    [FLAGSHIP]   ║
+║  🦾  JARVIS — MULTI-LLM AI ASSISTANT                    [FLAGSHIP]    ║
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
-║  > The only AI assistant that CANNOT be killed by a single provider  ║
+║  > The only AI assistant that CANNOT be killed by a single provider   ║
 ║                                                                       ║
-║  • 9 LLM Providers (OpenAI, Gemini, Claude, Groq, Mistral + more)   ║
+║  • 9 LLM Providers (OpenAI, Gemini, Claude, Groq, Mistral + more)     ║
 ║  • Auto-fallback routing — if one dies, JARVIS switches instantly     ║
-║  • ChromaDB long-term memory — JARVIS actually REMEMBERS you         ║
-║  • Voice-controlled — speak, it listens, it acts                     ║
-║  • spaCy NLP pipeline for intent parsing                             ║
+║  • ChromaDB long-term memory — JARVIS actually REMEMBERS you          ║
+║  • Voice-controlled — speak, it listens, it acts                      ║
+║  • spaCy NLP pipeline for intent parsing                              ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -234,14 +234,14 @@ Full NLP resume parsing system with OCR support. Structured extraction, entity r
 
 ```
 ╔══════════════════════════════════╗
-║  > loading next_project.exe...  ║
+║  > loading next_project.exe...   ║
 ║                                  ║
 ║  ██████████░░░░░░░░  62%         ║
 ║                                  ║
-║  STATUS: In active development  ║
-║  ETA:    Soon™                  ║
+║  STATUS: In active development   ║
+║  ETA:    Soon™                   ║
 ║                                  ║
-║  > Watch this repo for drops ⭐ ║
+║  > Watch this repo for drops ⭐  ║
 ╚══════════════════════════════════╝
 ```
 
@@ -426,14 +426,14 @@ REST APIs    █████████████████░░░  Advan
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║       SEEKING: Entry-Level Roles  |  Internships  |  Freelance      ║
+║       SEEKING: Entry-Level Roles  |  Internships  |  Freelance       ║
 ║                                                                      ║
-║  ✅  AI/ML Engineering        ✅  Full Stack Development            ║
-║  ✅  Python Development        ✅  Data Analysis & Pipelines        ║
+║  ✅  AI/ML Engineering        ✅  Full Stack Development             ║
+║  ✅  Python Development        ✅  Data Analysis & Pipelines         ║
 ║  ✅  NLP & LLM Applications    ✅  Team Lead / Solo Contributor      ║
 ║                                                                      ║
 ║  📍 Based: Trivandrum, Kerala, India                                 ║
-║  🌍 Open to: Remote  |  Hybrid  |  On-site  |  Relocation           ║
+║  🌍 Open to: Remote  |  Hybrid  |  On-site  |  Relocation            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
