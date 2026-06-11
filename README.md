@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TAGLINES -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2000&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%F0%9F%A4%96+Building+JARVIS+with+9+AI+brains;%F0%9F%A7%A0+ChromaDB+Memory+%7C+Voice+Control+%7C+Auto-Fallback;%F0%9F%8C%90+Three.js+3D+Portfolio+%7C+Live+Deployed;%F0%9F%92%A1+MCA+%40+ICT+Academy+of+Kerala+%7C+Trivandrum;%F0%9F%9A%80+Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2000&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%F0%9F%A4%96+Building+JARVIS+with+9+AI+brains;%F0%9F%A7%A0+ChromaDB+Memory+%7C+Voice+Control+%7C+Auto-Fallback;%F0%9F%8C%90+Three.js+3D+Portfolio+%7C+Live+Deployed;%F0%9F%92%A1+MCA+Student;Intern+@+ICT+Academy+of+Kerala+%7C+Trivandrum;%F0%9F%9A%80+Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG"/>
 </div>
 
 <!-- BADGES ROW 1: SOCIALS -->
@@ -484,7 +484,7 @@ REST APIs    █████████████████░░░  Advan
 
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=3000&pause=1000&color=6FCF97&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Thanks+for+visiting+%E2%80%94+now+go+build+something+legendary+%F0%9F%9A%80;Star+a+repo+%E2%80%94+it+costs+nothing+and+means+everything+%E2%AD%90;Built+in+Trivandrum%2C+Kerala+%F0%9F%87%AE%F0%9F%87%B3+%7C+Shipped+to+the+world+%F0%9F%8C%8D" alt="Footer typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=3000&pause=1000&color=6FCF97&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Thanks+for+visiting+%E2%80%94+Open+to+build+something+legendary+%F0%9F%9A%80;Star+a+repo+%E2%80%94+it+costs+nothing+and+means+everything+%E2%AD%90;Built+in+Trivandrum%2C+Kerala+%F0%9F%87%AE%F0%9F%87%B3+%7C+Shipped+to+the+world+%F0%9F%8C%8D" alt="Footer typing"/>
   <br/><br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001233,60:023e7d,90:001233,100:000000&height=130&section=footer&animation=twinkling&fontColor=00F7FF"/>
 </div>
